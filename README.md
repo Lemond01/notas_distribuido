@@ -8,4 +8,5 @@ Además, puede exportar las notas en formato PDF/,txt, y se ha usado Docker para
 ## Organizacion de Contenido
 <img src="content.png" align="right"/>
 
+
 ## Instalación y Configuración del Proyecto
