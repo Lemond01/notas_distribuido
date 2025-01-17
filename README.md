@@ -17,4 +17,4 @@ El proyecto utiliza Docker para crear contenedores. Si no tienes Docker instalad
     - Asegúrate de tener Docker Compose instalado.
 Puedes comprobarlo ejecutando el siguiente comando en la terminal:
 
-`docker-compose --version`
+                                                `docker-compose --version`
