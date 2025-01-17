@@ -59,7 +59,6 @@ Además, tienes la posibilidad de **guardar** dichas nochas en dos formatos - si
 │       └── notas.txt
 │       └── notas.pdf
 │       └── requirements.txt
+```
 
-
-
-
+Permitiendote asi, descargarlas.
