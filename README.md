@@ -14,8 +14,10 @@ Además, puede exportar las notas en formato PDF/,txt, y se ha usado Docker para
 **2. Instalar Docker y Docker Compose:**
 
 El proyecto utiliza Docker para crear contenedores. Si no tienes Docker instalado, sigue estos pasos:
+
     - Descargar Docker e instalarlo según tu sistema operativo.
     - Asegúrate de tener Docker Compose instalado.
+    
 Puedes comprobarlo ejecutando el siguiente comando en la terminal:
 
                                                 `docker-compose --version`
