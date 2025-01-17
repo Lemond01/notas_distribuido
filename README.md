@@ -50,7 +50,7 @@ La forma de interactuar con el cliente es **Seleccionar** la opción deseada, pa
 - Ver las Notas Creadas
 - Borrar Notas
 
-Además, tienes la posibilidad de **guardar** dichas nochas en dos formatos - siendo *PDF* y *.txt*. Dichos documentos se veran en:
+Además, tienes la posibilidad de **guardar** dichas nochas en dos formatos - siendo `PDF` y `.txt`. Dichos documentos se veran en:
 
 ```
 ├── Files/
@@ -62,3 +62,11 @@ Además, tienes la posibilidad de **guardar** dichas nochas en dos formatos - si
 ```
 
 Permitiendote asi, descargarlas.
+
+## Dependencias
+El proyecto utiliza las siguientes dependencias:
+
+`reportlab: Para la creación de archivos PDF.`
+
+### Autor
+*Sergio Hernández Garcia - LemondG*
