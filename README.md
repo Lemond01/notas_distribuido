@@ -1,4 +1,5 @@
-# Sistema de Notas [![Awesome]([https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg](https://github.com/Lemond01/notas_distribuido/blob/main/img/Logo%20Lemond.jpg))]([https://github.com/sindresorhus/awesome#readme](https://github.com/Lemond01))
+# Sistema de Notas [![Awesome](https://github.com/Lemond01/notas_distribuido/blob/main/img/Logo%20Lemond.jpg)](https://github.com/Lemond01)
+
 > README Description
 
 Este proyecto implementa un sistema de notas distribuido, en el que se usan contenedores Docker para alojar el servidor y el cliente que se comunican mediante sockets; permite al usuario crear, leer y eliminar notas. 
