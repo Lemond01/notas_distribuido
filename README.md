@@ -41,4 +41,5 @@ Una vez que hayas configurado todo, puedes entrar a CMD; localiza la carpeta rai
                                                         
                                                         `docker-compose run cliente` 
 
-Esto correra tanto el cliente como el servidor a la vez y de forma interactiva
+Esto correra tanto el cliente como el servidor a la vez y de forma interactiva; mostrandose de la siguiente manera:
+<img src="img/Interface.png" align="center"/>
