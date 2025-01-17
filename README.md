@@ -33,13 +33,13 @@ El proyecto incluye un *Dockerfile* tanto para el cliente como para el servidor.
 
 En la raíz del proyecto, en el mismo nivel que el archivo `docker-compose.yml`, ejecuta:
 
-                                                    `docker-compose build`
+                                                `docker-compose build`
 
 
 ## Ejecutando Proyecto
 Una vez que hayas configurado todo, puedes entrar a CMD; localiza la carpeta raiz del proyecto y ejecuta el siguiente comando:
                                                         
-                                                        `docker-compose run cliente` 
+                                                `docker-compose run cliente` 
 
 Esto correra tanto el cliente como el servidor a la vez y de forma interactiva; mostrandose de la siguiente manera:
 <img src="img/Interface.png" align="center"/>
