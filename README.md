@@ -1,4 +1,4 @@
-# Notas_distribuido [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Sistema de Notas [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > README Description
 
 Este proyecto implementa un sistema de notas distribuido, en el que se usan contenedores Docker para alojar el servidor y el cliente que se comunican mediante sockets; permite al usuario crear, leer y eliminar notas. 
@@ -18,3 +18,22 @@ El proyecto utiliza Docker para crear contenedores. Si no tienes Docker instalad
 Puedes comprobarlo ejecutando el siguiente comando en la terminal:
 
                                                 `docker-compose --version`
+3. Instalar las dependencias del cliente:
+En el archivo requirements.txt se encuentran las dependencias necesarias para ejecutar el cliente. Para instalarlas, navega a la carpeta del cliente y ejecuta:
+
+                                            `pip install -r requirements.txt`
+
+
+4. Configurar Docker:
+El proyecto incluye un Dockerfile tanto para el cliente como para el servidor. Asegúrate de que Docker esté configurado correctamente para poder crear los contenedores.
+
+En la raíz del proyecto, en el mismo nivel que el archivo `docker-compose.yml`, ejecuta:
+
+                                                    `docker-compose build`
+
+
+## Ejecutando Proyecto
+Una vez que hayas configurado todo, puedes entrar a CMD; localiza la carpeta raiz del proyecto y ejecuta el siguiente comando:
+                                                        `docker-compose run cliente` 
+
+Esto correra tanto el cliente como el servidor a la vez y de forma interactiva
