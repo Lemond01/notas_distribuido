@@ -45,4 +45,21 @@ Una vez que hayas configurado todo, puedes entrar a CMD; localiza la carpeta rai
 Esto correra tanto el cliente como el servidor a la vez y de forma interactiva; mostrandose de la siguiente manera:
 <img src="img/Interface.png"/>
 
+La forma de interactuar con el cliente es **Seleccionar** la opción deseada, para luego **teclearla** y dar **ENTER**. De esa forma podrás
+- Crear Notas
+- Ver las Notas Creadas
+- Borrar Notas
+
+Además, tienes la posibilidad de **guardar** dichas nochas en dos formatos - siendo *PDF* y *.txt*. Dichos documentos se veran en:
+
+```
+├── Files/
+│   ├── app/
+│       └── client.py
+│       └── notas.txt
+│       └── notas.pdf
+│       └── requirements.txt
+
+
+
 
