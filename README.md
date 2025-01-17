@@ -6,7 +6,7 @@ Este proyecto implementa un sistema de notas distribuido, en el que se usan cont
 Además, puede exportar las notas en formato PDF/,txt, y se ha usado Docker para contenerizar tanto el servidor como el cliente.
 
 ## Organizacion de Contenido
-<img src="content.png" align="right"/>
+<img src="img/content.png" align="right"/>
 
 ## Instalación y Configuración del Proyecto
 **1. Clonar el repositorio...**
